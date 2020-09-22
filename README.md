@@ -13,7 +13,7 @@
 ## 怎么办？
 点开链接上课。遇到搞不懂的可以点这里 -> https://github.com/datagirlschina/python-for-everyone/issues 
 1. 搜索看有没有类似的问题已经有人回答了
-2. 提交问题(New Issue)，等好心人来回答
+2. 提交问题(New Issue)，等好心人（比如我们的助教）来回答
 
 你可以的。
 
