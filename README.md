@@ -1,4 +1,4 @@
-# python-for-everyone
+# Coursera-Python-For-Everyone
 一个Programming For Everybody相关学习资源的repo
 
 课程链接 https://www.coursera.org/learn/python
